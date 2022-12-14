@@ -345,13 +345,7 @@ class library:
         
         
         
-def __init__():
-    
-   
-    
-    this = library()
-    this.GUI()
-    
-__init__()
-    
+if __name__ == '__main__':
+    final = library()
+    final.GUI()
     
